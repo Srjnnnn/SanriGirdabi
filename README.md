@@ -23,10 +23,10 @@
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
 <p align = "center">
-<span style = "color: black">
-<a style = "color: black" href= 'https://medium.com/@sercanuygur' >Medium </a>
-<a style = "color: black" href= 'https://www.linkedin.com/in/eypsrcnuygr/' >LinkedIn </a>
-<a style = "color: black" href= 'https://twitter.com/eypsrcnuygr' >Twitter </a>
+<span>
+<a class="link-gray-dark"  href= 'https://medium.com/@sercanuygur' >Medium </a>
+<a class="link-gray-dark"  href= 'https://www.linkedin.com/in/eypsrcnuygr/' >LinkedIn </a>
+<a class="link-gray-dark"  href= 'https://twitter.com/eypsrcnuygr' >Twitter </a>
 </span>
 </p>
 <p align="center">
