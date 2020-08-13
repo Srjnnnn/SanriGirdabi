@@ -22,11 +22,11 @@
   
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
-<p>
-<span>
-<a class= 'text-secondary' href= 'https://medium.com/@sercanuygur' >Medium </a>
-<a class= 'text-secondary' href= 'https://www.linkedin.com/in/eypsrcnuygr/' >LinkedIn </a>
-<a class= 'text-secondary' href= 'https://twitter.com/eypsrcnuygr' >Twitter </a>
+<p align = "center">
+<span style = "color: black">
+<a style = "color: black" href= 'https://medium.com/@sercanuygur' >Medium </a>
+<a style = "color: black" href= 'https://www.linkedin.com/in/eypsrcnuygr/' >LinkedIn </a>
+<a style = "color: black" href= 'https://twitter.com/eypsrcnuygr' >Twitter </a>
 </span>
 </p>
 <p align="center">
