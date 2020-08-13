@@ -22,7 +22,13 @@
   
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
-
+<p>
+<span>
+<a class= 'text-secondary' href= 'https://medium.com/@sercanuygur' >Medium </a>
+<a class= 'text-secondary' href= 'https://www.linkedin.com/in/eypsrcnuygr/' >LinkedIn </a>
+<a class= 'text-secondary' href= 'https://twitter.com/eypsrcnuygr' >Twitter </a>
+</span>
+</p>
 <p align="center">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
