@@ -52,6 +52,12 @@
   </span>
 </p>
  
+ <div align='center'>
+  <img align='center' alt="visitors count" src="https://visitor-badge.glitch.me/badge?page_id=eypsrcnuygr.eypsrcnuygr">
+</div>
+<br />
+
+[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)](https://github.com/eypsrcnuygr/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eypsrcnuygr&show_icons=true&theme=radical&layout=compact)](https://github.com/eypsrcnuygr/github-readme-stats)
 
 
 
