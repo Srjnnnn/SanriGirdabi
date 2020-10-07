@@ -57,7 +57,7 @@
 </div>
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr)](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)
+[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)](https://github.com/eypsrcnuygr/github-readme-stats) 
 
 
 
