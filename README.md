@@ -21,7 +21,7 @@
   :heavy_plus_sign: <b> A freelancer <b> :computer: <br />
   
 </p>
-<img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=kubilaycaglayan' />
+<img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=eypsrcnuygr' />
 <p align = "center">
 <span>
 <a class="link-gray-dark"  href= 'https://medium.com/@sercanuygur' >Medium </a>
@@ -57,7 +57,7 @@
 </div>
 <br />
 
-[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)](https://github.com/eypsrcnuygr/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eypsrcnuygr&show_icons=true&theme=radical&layout=compact)](https://github.com/eypsrcnuygr/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
