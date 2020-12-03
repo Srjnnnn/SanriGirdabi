@@ -16,7 +16,7 @@
 <br>
 <p align="center">
   Hello :wave: <b> I am Eyüp Sercan UYGUR</b> <br />
-  I live in İstanbul, Turkey. :tr: <br />
+  Residing between Kuşadası and Istanbul, Turkey. :tr: <br />
   Currently a <b>student</b> at Microverse :man_student: <br />
   :heavy_plus_sign: <b> A freelancer <b> :computer: <br />
   
@@ -47,7 +47,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://webpack.js.org/1fcab817090e78435061.svg">
+    <img title="Webpack" alt="Webpack" height=40 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwptavern.com%2Fwordpress-replaces-browserify-with-webpack-for-build-process&psig=AOvVaw0qZ3wvmzLibNkuBzdC3US9&ust=1607116998364000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjsw8Dfsu0CFQAAAAAdAAAAABAO">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
@@ -57,7 +57,7 @@
 </div>
 <br />
 
-[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)](https://github.com/eypsrcnuygr/github-readme-stats) 
+[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
