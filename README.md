@@ -47,7 +47,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="Webpack" alt="Webpack" height=40 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwptavern.com%2Fwordpress-replaces-browserify-with-webpack-for-build-process&psig=AOvVaw0qZ3wvmzLibNkuBzdC3US9&ust=1607116998364000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjsw8Dfsu0CFQAAAAAdAAAAABAO">
+    <img title="Webpack" alt="Webpack" height=40 src="https://wptavern.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-6.51.54-PM.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
@@ -57,7 +57,7 @@
 </div>
 <br />
 
-[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Eyüp Sercan UYGUR github stats](https://github-readme-stats.vercel.app/api?username=eypsrcnuygr&show_icons=true&theme=radical)] 
 
 
 
