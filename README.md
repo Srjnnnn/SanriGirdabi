@@ -15,7 +15,7 @@
 
 <br>
 <p align="center">
-  Hello :wave: <b> I am Eyüp Sercan UYGUR</b> <br />
+  Hello :wave:  I am <b>Eyüp Sercan UYGUR</b> <br />
   Residing between Kuşadası and Istanbul, Turkey. :tr: <br />
   Currently a <b>technical support engineer</b>  at Microverse :man_student: <br />
   :heavy_plus_sign: <b> A freelancer <b> :computer: <br />
