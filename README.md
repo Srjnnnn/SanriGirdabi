@@ -7,7 +7,7 @@
   <img title="Positive Behaviour" height=100
     src="https://i.pinimg.com/originals/c2/d7/9c/c2d79c2955a429eb7eb4fecbdd2d3d62.jpg">
   <img title="Open To Communication" height=100
-    src="https://logosolusa.com/wp-content/uploads/parser/Open-Communication-Security-Logo-1.png">
+    src="http://drawsuccess.com/wp-content/uploads/2010/11/Open-Positive-Communication-Logo-300x207.png">
   <img title="Constructive Feedback Giver & Taker" height=100
     src="https://www.gallerycollection.com/blog/wp-content/uploads/2016/06/feedback.png">
   </span>
