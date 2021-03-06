@@ -38,7 +38,7 @@
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="React" alt="React" height=40 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freactjs.org%2F&psig=AOvVaw10-dktgnWwRVokBFFqopm-&ust=1615145325379000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjM9K6znO8CFQAAAAAdAAAAABAD">
+    <img title="React" alt="React" height=40 src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
