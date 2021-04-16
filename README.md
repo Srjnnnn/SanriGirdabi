@@ -18,7 +18,6 @@
   Hello :wave:  I am <b>Eyüp Sercan UYGUR</b> <br />
   Residing between Kuşadası and Istanbul, Turkey. :tr: <br />
   Currently a <b>technical support engineer</b>  at Microverse :man_student: <br />
-  :heavy_plus_sign: <b> A freelancer <b> :computer: <br />
   
 </p>
 <img height=0 src='https://visitor-badge.laobi.icu/badge?page_id=eypsrcnuygr' />
