@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   Hello :wave:  I am <b>Sercan</b>
-  Working with <b>CaptainU</b> team
+  Working with <b>CaptainU</b> team as
   a <b>Full-Stack developer.</b><br />
 </p>
 <p align="center">This is my personal GitHub Repo, for my personal projects. I'm using another GitHub repo for internal company contributions.</p>
