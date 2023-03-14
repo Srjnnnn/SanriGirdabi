@@ -10,8 +10,8 @@
 <p align = "center">
 <span>
 <a class="link-gray-dark"  href= 'https://medium.com/@sercanuygur' >Medium </a>
-<a class="link-gray-dark"  href= 'https://www.linkedin.com/in/eypsrcnuygr/' >LinkedIn </a>
-<a class="link-gray-dark"  href= 'https://twitter.com/eypsrcnuygr' >Twitter </a>
+<a class="link-gray-dark"  href= 'https://www.linkedin.com/in/srcnuygr/' >LinkedIn </a>
+<a class="link-gray-dark"  href= 'https://twitter.com/sanri_girdabi' >Twitter </a>
 </span>
 </p>
 
