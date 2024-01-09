@@ -4,7 +4,7 @@
   Working at <b>Orion Innovation</b> as
   a <b>Software Engineer.</b><br />
 </p>
-<p align="center">You can reach me via the links below.</p>
+<p align="center">You can reach me via <a href="https://www.eyupsercanuygur.com" target="_blank">my personal web page</a> or the links below.</p>
 
 <p align = "center">
 <span>
